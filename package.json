@@ -6,7 +6,5 @@
   "dependencies": {
     "vue": "^2.6.10"
   },
-  "devDependencies": {
-    "webpack": "^4.32.2"
-  }
+  "devDependencies": {}
 }
